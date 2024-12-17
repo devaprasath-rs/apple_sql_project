@@ -1,4 +1,4 @@
-# Madrid_airbnb Host review and performance analysis SQL Project
+# Apple Retail Sales Analysis Sql project
 
 ## Project Overview
 
